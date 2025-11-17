@@ -1,8 +1,15 @@
 # Asus-ROG-STRIX-pc-build
 
-This project documents the complete process of building my first custom PC including components, assembly, BIOS and OS configuration, performance testing, and troubleshooting. The goal was to develop hands-on experience to gain a better understanding of how these software and hardware components work together, fit together and how to solve issues along the way. This is to better develope my understand of systems for my career goals working in IT.
+This project documents the full process of building my first custom PC — from component research and selection through assembly, BIOS configuration, testing, and troubleshooting. The goal of this project was to gain real hands-on hardware experience to support a future career in IT support and hardware technician roles.
 
-Parts List:
+# Component research
+* Motherboard ands connections - DDR4 for RAM, 6th-7th Gen cpu LGA compatability, M.2 slot is PCIe 3.0
+* Wattage needed to run components with headroom for overclocking
+* Cleaning adn reapplication process for thermal paste on used CPU and required tools
+* Learning installation process for OS both on to USB and to PC
+* Choosing PC case to fit motherboard and large CPU cooler (155mm) and that all parts will fit within
+  
+# Parts List:
 * Motherboard - Asus ROG STRIX B250I gaming mini ATX
 * CPU - I7 7700k Quad core 8MB core processor  7th gen Kaby architecture
 * CPU cooler - Thermalright peerless assassin 120 twin tower
