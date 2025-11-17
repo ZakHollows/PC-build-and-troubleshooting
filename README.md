@@ -1,6 +1,6 @@
 # Asus-ROG-STRIX-pc-build
 
-This project documents the complete process of building my first custom PC, including component selection, assembly, BIOS configuration, performance testing, and troubleshooting. The goal was to develop hands-on hardware experience for an IT support and hardware technician career.
+This project documents the complete process of building my first custom PC including components, assembly, BIOS and OS configuration, performance testing, and troubleshooting. The goal was to develop hands-on experience to gain a better understanding of how these software and hardware components work together, fit together and how to solve issues along the way. This is to better develope my understand of systems for my career goals working in IT.
 
 Parts List:
 * Motherboard - Asus ROG STRIX B250I gaming mini ATX
