@@ -16,6 +16,29 @@ Parts List:
 # Build Steps after acquisition and cleaning
 
 * Install Motherboard into case
+* Install RAM into designated PCIe sockets
 * Apply Thermal paste
-* Install CPU cooler and attach wire to 
+* Install CPU cooler and attach wire to CPU_FAN connector
+* Install GPU into PCIe socket, taking out side panels to fit
+* Install SSD
+* Connect case wires to motherboard
+* Conecct fan wires to fan hub, connect fan hub to CHA_FAN connector
+* Install PSU
+* Connect PSU wires to CPU 8x pin, Motherboard 24 x pin and GPU 6 + 8 x pin, SATA sable into fan hub
+* Cable management
+* Reassemble case
+* Power on and load into BIOS
+* Choose USB for OS installation
+* Update all Drivers
+* Benchmark tests
 
+# Troubleshooting
+
+## Connection issues for wiring
+- Cause - Mini ATX board and large CPU cooler
+- Fix - uninstall CPU until all connection are done, then reinstall
+## Fan hub connection for RGB
+- Cause - Fan hub RGB connection was 3 pin, Motherboard requires 4 pin
+- Fix - connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
+
+  
