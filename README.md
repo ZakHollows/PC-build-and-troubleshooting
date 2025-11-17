@@ -45,11 +45,11 @@ Parts List:
 - Fix - Aquired correct SSD with correct sized screws for installation, and additional heatsink
 
 # Photos
-![Cable management](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_141908.jpg)
+![Cable management](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/055ead3500b4be98dafa800fd5a15a381ddde5a2/Pc%20resources/20251116_141908.jpg)
 
-![Without glass panel](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142049.jpg)
+![Without glass panel](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/055ead3500b4be98dafa800fd5a15a381ddde5a2/Pc%20resources/20251116_142049.jpg)
 
-![with glass panel](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142441.jpg)
+![with glass panel](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/055ead3500b4be98dafa800fd5a15a381ddde5a2/Pc%20resources/20251116_142441.jpg)
 
 # What i learned
 
