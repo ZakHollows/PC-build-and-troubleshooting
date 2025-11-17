@@ -56,6 +56,9 @@ This project documents the full process of building my first custom PC — from 
 ## Blank screen
 - Cause - change in BIOS settings created issues with the GPU due to its age for the display cable
 - Fix - try other ports for the display cable, swapped out for a hdmi cable which provided picture
+## Driver issues
+- Cause - Asus driver installer is outdated and only offer 32 bit installation
+- Fix - Download the files individually for windows 10, enter each folder and run setup to install the rest of the drivers.
 
 # Photos
 ![Cable management](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/055ead3500b4be98dafa800fd5a15a381ddde5a2/Pc%20resources/20251116_141908.jpg)
