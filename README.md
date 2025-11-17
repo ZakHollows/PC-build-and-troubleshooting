@@ -36,16 +36,31 @@ Parts List:
 
 ## Connection issues for wiring
 - Cause - Mini ATX board and large CPU cooler
-- Fix - uninstall CPU until all connection are done, then reinstall
+- Fix - uninstall CPU until all connection are done following motherboard manual, then reinstall CPU cooler
 ## Fan hub connection for RGB
 - Cause - Fan hub RGB connection was 3 pin, Motherboard requires 4 pin
 - Fix - connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
+## SSD mismatch
+- Cause - Motherboard SSD slot only supports PCIe 3.0, can fit PCIe 4.0 SSDs but not at thier speeds
+- Fix - Aquired correct SSD with correct sized screws for installation, and additional heatsink
 
 # Photos
-[20251116_141908.jpg](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_141908.jpg)
+![Cable management](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_141908.jpg)
 
-https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142049.jpg
+![Without glass panel](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142049.jpg)
 
-https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142441.jpg
+![with glass panel](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142441.jpg)
 
+# What i learned
 
+* Types of connections through generations
+* Power supply requirements and headroom for futur proofing
+* Types of screws for different components and how they overlap
+* Application and cleaning of thermal paste
+* Choosing fan direction for positive/negative airflow
+* Installation of all parts and thier wiring
+* Cable management
+* Installation of OS
+* Driver Updates
+* Benchmarking
+  
