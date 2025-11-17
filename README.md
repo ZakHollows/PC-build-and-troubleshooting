@@ -42,5 +42,10 @@ Parts List:
 - Fix - connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
 
 # Photos
-![Alt text](image.2025116_141908.jpg)
+[20251116_141908.jpg](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_141908.jpg)
+
+https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142049.jpg
+
+https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/ab816f3b4b8e1747ca083d11028cadb02d544f46/20251116_142441.jpg
+
 
