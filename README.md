@@ -3,7 +3,7 @@
 This project documents the full process of building my first custom PC — from component research and selection through assembly, BIOS configuration, testing, and troubleshooting. The goal of this project was to gain real hands-on hardware experience to support a future career in IT support and hardware technician roles.
 
 # Component research
-* Motherboard ands connections - DDR4 for RAM, 6th-7th Gen cpu LGA compatability, M.2 slot is PCIe 3.0
+* Motherboard and connections - DDR4 for RAM, 6th-7th Gen cpu LGA compatability, M.2 slot is PCIe 3.0
 * Wattage needed to run components with headroom for overclocking
 * Cleaning adn reapplication process for thermal paste on used CPU and required tools
 * Learning installation process for OS both on to USB and to PC
