@@ -5,7 +5,7 @@ This project documents the full process of building my first custom PC — from 
 # Component research
 * Motherboard and connections - DDR4 for RAM, 6th-7th Gen cpu LGA compatability, M.2 slot is PCIe 3.0
 * Wattage needed to run components with headroom for overclocking
-* Cleaning adn reapplication process for thermal paste on used CPU and required tools
+* Cleaning and reapplication process for thermal paste on used CPU and required tools
 * Learning installation process for OS both on to USB and to PC
 * Choosing PC case to fit motherboard and large CPU cooler (155mm) and that all parts will fit within
   
@@ -20,7 +20,7 @@ This project documents the full process of building my first custom PC — from 
 * Case - CIT sense black Mid tower (3 fans preinstalled)
 * Tools - Thermal paste, Isopropanol Alcohol, cotton buds, compressed air canister, screw driver, hexaganol screw driver, cleaning brush, USB with Windows 11 boot up, ![Motherboard manual](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/9a458fb3b92e0d7c546ae4bc10db0bbd3eca2a46/Pc%20resources/E12478_STRIX_B250I_GAMING_UM_WEB.pdf) 
 
-# Build Steps after acquisition and cleaning
+# Build steps after acquisition and cleaning
 
 * Install Motherboard into case
 * Install RAM into designated PCIe sockets
@@ -29,7 +29,7 @@ This project documents the full process of building my first custom PC — from 
 * Install GPU into PCIe socket, taking out side panels to fit
 * Install SSD
 * Connect case wires to motherboard
-* Conecct fan wires to fan hub, connect fan hub to CHA_FAN connector
+* Conenct fan wires to fan hub, connect fan hub to CHA_FAN connector
 * Install PSU
 * Connect PSU wires to CPU 8x pin, Motherboard 24 x pin and GPU 6 + 8 x pin, SATA sable into fan hub
 * Cable management
@@ -48,7 +48,7 @@ This project documents the full process of building my first custom PC — from 
 - Cause - Fan hub RGB connection was 3 pin, Motherboard requires 4 pin
 - Fix - connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
 ## SSD mismatch
-- Cause - Motherboard SSD slot only supports PCIe 3.0, can fit PCIe 4.0 SSDs but not at thier speeds
+- Cause - Motherboard SSD slot only supports PCIe 3.0, can fit PCIe 4.0 SSDs but not at those speeds
 - Fix - Aquired correct SSD with correct sized screws for installation, and additional heatsink
 
 # Photos
@@ -61,7 +61,7 @@ This project documents the full process of building my first custom PC — from 
 # Acquisition, specifications and cost
 View Raw -![Excel spreadsheet](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/5fa844deb6a2236051d35a3de5dc23a53918a119/Pc%20resources/Acquisition%20and%20cost%20spreadsheet.xlsx)
 
-# What i learned
+# What I learned
 
 * Types of connections through generations
 * Power supply requirements and headroom for futur proofing
