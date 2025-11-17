@@ -11,7 +11,7 @@ Parts List:
 * PSU - Corsair CX series 650W 80+ bronze
 * SSD - Samsung 980 1TB MZ-V8V1T0 (PCIe 3.0) 2280 NVMe M.2
 * Case - CIT sense black Mid tower (3 fans preinstalled)
-* Tools - Thermal paste, Isopropanol Alcohol, cotton buds, compressed air canister, screw driver, hexaganol screw driver, cleaning brush, USB with Windows !! boot up
+* Tools - Thermal paste, Isopropanol Alcohol, cotton buds, compressed air canister, screw driver, hexaganol screw driver, cleaning brush, USB with Windows 11 boot up, ![Motherboard manual](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/9a458fb3b92e0d7c546ae4bc10db0bbd3eca2a46/Pc%20resources/E12478_STRIX_B250I_GAMING_UM_WEB.pdf) 
 
 # Build Steps after acquisition and cleaning
 
