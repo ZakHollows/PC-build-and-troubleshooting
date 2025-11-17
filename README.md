@@ -58,7 +58,7 @@ This project documents the full process of building my first custom PC — from 
 - Fix - try other ports for the display cable, swapped out for a hdmi cable which provided picture
 ## Driver issues
 - Cause - Asus driver installer is outdated and only offer 32 bit installation
-- Fix - Download the files individually for windows 10, enter each folder and run setup to install the rest of the drivers.
+- Fix - Downloaded Intel Driver & support assistant, checks all available hardware for updates including chipsets and intsalled them
 
 # Photos
 ![Cable management](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/055ead3500b4be98dafa800fd5a15a381ddde5a2/Pc%20resources/20251116_141908.jpg)
