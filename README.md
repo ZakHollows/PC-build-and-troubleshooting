@@ -73,8 +73,8 @@ View Raw -![Excel spreadsheet](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-b
 # What I learned
 
 * Types of connections through generations
-* Power supply requirements and headroom for futur proofing
-* Types of screws for different components and how they overlap
+* Power supply requirements and headroom for future proofing
+* Types of screws for different components and how they overlap with other parts and thier installation
 * Application and cleaning of thermal paste
 * Choosing fan direction for positive/negative airflow
 * Installation of all parts and thier wiring
