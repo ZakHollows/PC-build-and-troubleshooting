@@ -1,13 +1,13 @@
 # Asus-ROG-STRIX-pc-build
 
-This project documents the full process of building my first custom PC — from component research and selection through assembly, BIOS configuration, testing, and troubleshooting. The goal of this project was to gain real hands-on hardware experience to support a future career in IT support and hardware technician roles.
+This project documents the full process of building my first custom PC — from component research and selection through assembly, BIOS configuration, testing, and troubleshooting. The goal of this project was to gain real hands-on hardware and software experience to support a future career in IT support specialist roles.
 
 # Component research
 * Motherboard and connections - DDR4 for RAM, 6th-7th Gen cpu LGA compatability, M.2 slot is PCIe 3.0
 * Wattage needed to run components with headroom for overclocking
 * Cleaning and reapplication process for thermal paste on used CPU and required tools
 * Learning installation process for OS both on to USB and to PC
-* Choosing PC case to fit motherboard and large CPU cooler (155mm) and that all parts will fit within
+* Choosing PC case to fit motherboard and large CPU cooler (155mm)
   
 # Parts List:
 * Motherboard - Asus ROG STRIX B250I gaming mini ATX
@@ -22,18 +22,18 @@ This project documents the full process of building my first custom PC — from 
 
 # Build steps after acquisition and cleaning
 
-* Install Motherboard into case
+* Install Motherboard into case using standoff screws
 * Install RAM into designated PCIe sockets
-* Apply Thermal paste
-* Install CPU cooler and attach wire to CPU_FAN connector
-* Install GPU into PCIe socket, taking out side panels to fit
-* Install SSD
-* Connect case wires to motherboard
-* Conenct fan wires to fan hub, connect fan hub to CHA_FAN connector
-* Install PSU
+* Clean CPU of old thermal paste with isopropanol alcohol and cotton buds, and apply fresh thermal paste thin and evenly
+* Install SSD at 45` angle into middle of motherboard PCIe slot, screw into place with specialist small screw
+* Install CPU radiator on top of CPU and attatch the fans using the accompanying fan mounting clip. Attach the wires to a Y splitter connector, then connect to CPU_FAN connector on motherboard
+* Install GPU into PCIe socket below SSD, taking out side panels on PC case to fit
+* Connect case wires to motherboard labelled POWER SWITCH, RESET BUTTON, POWER LED, HDD LED into front panel connector pins
+* Conenct case fan wires to fan hub, connect fan hub to CHA_FAN connector
+* Install PSU in bottom of case, fan face down
 * Connect PSU wires to CPU 8x pin, Motherboard 24 x pin and GPU 6 + 8 x pin, SATA sable into fan hub
-* Cable management
-* Reassemble case
+* Cable management using inside PC case holes and cable ties
+* Reattatch back panel and glass front panel
 * Power on and load into BIOS
 * Choose USB for OS installation
 * Update all Drivers
@@ -43,22 +43,28 @@ This project documents the full process of building my first custom PC — from 
 
 ## Connection issues for wiring
 - Cause - Mini ATX board and large CPU cooler
-- Fix - uninstall CPU until all connection are done following motherboard manual, then reinstall CPU cooler
+- Fix - Uninstall CPU until all connection are done following motherboard manual, then reinstall CPU cooler
 ## Fan hub connection for RGB
 - Cause - Fan hub RGB connection was 3 pin, Motherboard requires 4 pin
-- Fix - connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
+- Fix - Connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
+- Additional work - Aquire adapter for current fan hub to connect to motherboard
+                  - Aquire new fan hub which comes with the correct pin head and additional functionality
 ## SSD mismatch
 - Cause - Motherboard SSD slot only supports PCIe 3.0, can fit PCIe 4.0 SSDs but not at those speeds
-- Fix - Aquired correct SSD with correct sized screws for installation, and additional heatsink
+- Fix - Aquired correct SSD with correct sized screws for installation
+- Additional work - Aquire a SSD heatsink to prevent thermal throttling
 ## OS errors
-- Cause TPM not enabled due to age of motherboard, as well as secure boot not enabled
-- Fix - Go into Bios and enable both TPM and secure boot
+- Cause - TPM and secure boot not enabled in BIOS
+- Fix - Go into BIOS and enable both TPM and secure boot, then save settings
 ## Blank screen
-- Cause - change in BIOS settings created issues with the GPU due to its age for the display cable
-- Fix - try other ports for the display cable, swapped out for a hdmi cable which provided picture
+- Cause - Damage to display port socket on GPU
+- Fix - GPU has 1 display port socket and three HDMI sockets. Switched out wire for HDMI to connect monitor to different GPU socket
 ## Driver issues
-- Cause - Asus driver installer is outdated and only offer 32 bit installation
-- Fix - Downloaded Intel Driver & support assistant, checks all available hardware for updates including chipsets and intsalled them
+- Cause - Asus driver installer is outdated, only offer 32 bit installation for newest drivers
+- Fix - Download Intel Driver & support assistant, this application reads the motherboard and hardware. Application finds the latest compatible drivers and installs
+## Audio driver missing
+- Cause - Previous driver issue missed RealTek audio driver
+- Fix - Manual installation required, downloaded latest RealTek audio driver from official online site. Once installed checking device management to find the RealTek audio driver 
 
 # Photos
 ![Cable management](https://github.com/ZakHollows/Asus-ROG-STRIX-pc-build/blob/055ead3500b4be98dafa800fd5a15a381ddde5a2/Pc%20resources/20251116_141908.jpg)
