@@ -37,32 +37,33 @@ This project documents the full process of building my first custom PC — from 
 * Power on and load into BIOS
 * Choose USB for OS installation
 * Update all Drivers
-* Benchmark tests
+* Benchmark tests using 3D mark application, setting Time Spy, as follows:
+  - score of 7181 (AVG 7159) for e=whole build. GPU score 7698, CPU score 5202, FPS between 45-49 at 1080p resolution. Temperatures within acceptible tolerances reaching max of 71.44' for CPU and 59.99' for GPU. Potential for overclocking for better CPU performance, but will need better fan curve to compensate for extra generated heat. 
 
 # Troubleshooting
 
-## Connection issues for wiring
+## Problem - Connection issues for wiring
 - Cause - Mini ATX board and large CPU cooler
 - Fix - Uninstall CPU until all connection are done following motherboard manual, then reinstall CPU cooler
-## Fan hub connection for RGB
+## Problem - Fan hub connection for RGB
 - Cause - Fan hub RGB connection was 3 pin, Motherboard requires 4 pin
 - Fix - Connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
 - Additional work - Aquire adapter for current fan hub to connect to motherboard
                   - Aquire new fan hub which comes with the correct pin head and additional functionality
-## SSD mismatch
+## Problem - SSD mismatch
 - Cause - Motherboard SSD slot only supports PCIe 3.0, can fit PCIe 4.0 SSDs but not at those speeds
 - Fix - Aquired correct SSD with correct sized screws for installation
 - Additional work - Aquire a SSD heatsink to prevent thermal throttling
-## OS errors
+## Problem - OS errors
 - Cause - TPM and secure boot not enabled in BIOS
 - Fix - Go into BIOS and enable both TPM and secure boot, then save settings
-## Blank screen
+## Problem - Blank screen
 - Cause - Damage to display port socket on GPU
 - Fix - GPU has 1 display port socket and three HDMI sockets. Switched out wire for HDMI to connect monitor to different GPU socket
-## Driver issues
+## Problem - Driver issues
 - Cause - Asus driver installer is outdated, only offer 32 bit installation for newest drivers
 - Fix - Download Intel Driver & support assistant, this application reads the motherboard and hardware. Application finds the latest compatible drivers and installs
-## Audio driver missing
+## Problem - Audio driver missing
 - Cause - Previous driver issue missed RealTek audio driver
 - Fix - Manual installation required, downloaded latest RealTek audio driver from official online site. Once installed checking device management to find the RealTek audio driver 
 
