@@ -1,6 +1,14 @@
 # Asus-ROG-STRIX-pc-build
 
-This project documents the full process of building my first custom PC — from component research and selection through assembly, BIOS configuration, testing, and troubleshooting. The goal of this project was to gain real hands-on hardware and software experience to support a future career in IT support specialist roles.
+# Project summary
+
+This project was to test my ability to build a PC from start to finish, solving any troublshooting issues that arose and completing the build within designated time from of 10 hours or less. This was accomplished with research on each part prior to assembly to ensure connectivity and power supply was adequate, and all tools needed aquired along with parts. Once assembled, the installation of Windows 11 via USB created boot drive was completed, followed by full update of all drivers and troubleshooting issues which are documented below. All of which was accomplished within the time frame of 7 hours, 48 minuets.
+
+From this project i used my knowledge of the hardware to ensure installation was correct first time. And through the OS installation and updates I learned how to trouble shoot issues such as Boot up errors with BIOS settings enabling, blank output on monitors and driver updates for older hardware
+
+# Project
+
+Below is my step by step walk through of assembling a PC, from hardware parts and installation into case, to OS installation and driver updates. Included are the troubleshooting steps taken needed to complete this project
 
 # Component research
 * Motherboard and connections - DDR4 for RAM, 6th-7th Gen cpu LGA compatability, M.2 slot is PCIe 3.0
@@ -42,18 +50,11 @@ This project documents the full process of building my first custom PC — from 
 
 # Troubleshooting
 
-## Problem - Connection issues for wiring
-- Cause - Mini ATX board and large CPU cooler
-- Fix - Uninstall CPU until all connection are done following motherboard manual, then reinstall CPU cooler
 ## Problem - Fan hub connection for RGB
 - Cause - Fan hub RGB connection was 3 pin, Motherboard requires 4 pin
 - Fix - Connect RESET SW wire from case into fan hub. Minimal functionality to adjust lighting with no hazards of mismatched connectors
 - Additional work - Aquire adapter for current fan hub to connect to motherboard
                   - Aquire new fan hub which comes with the correct pin head and additional functionality
-## Problem - SSD mismatch
-- Cause - Motherboard SSD slot only supports PCIe 3.0, can fit PCIe 4.0 SSDs but not at those speeds
-- Fix - Aquired correct SSD with correct sized screws for installation
-- Additional work - Aquire a SSD heatsink to prevent thermal throttling
 ## Problem - OS errors
 - Cause - TPM and secure boot not enabled in BIOS
 - Fix - Go into BIOS and enable both TPM and secure boot, then save settings
