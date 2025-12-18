@@ -2,9 +2,9 @@
 
 # Project summary
 
-This project was to test my ability to build a PC from start to finish, solving any troublshooting issues that arose and completing the build within designated time frame of 10 hours or less. This was accomplished with research on each part prior to assembly to ensure connectivity and power supply was adequate, and all tools needed aquired along with parts. Once assembled, the installation of Windows 11 via USB created boot drive was completed, followed by full update of all drivers and troubleshooting issues which are documented below. All of which was accomplished within the time frame of 7 hours, 48 minuets.
+This project was to test my ability to build a PC from start to finish, troublshooting issues and completing the build. Research into parts for connectivity and power supply before final assembly. Installation of OS with troublehsooting steps taken, and final updates for drivers and applications.
 
-From this project i used my knowledge of the hardware to ensure installation was correct first time. And through the OS installation and updates I learned how to trouble shoot issues such as Boot up errors with BIOS settings enabling, blank output on monitors and driver updates for older hardware
+This project taught me basics of hardware installation, troubleshooting steps for OS installation and driver updates on a older system.
 
 # Project
 
