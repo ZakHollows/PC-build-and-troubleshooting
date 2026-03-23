@@ -1,4 +1,4 @@
-# Asus-ROG-STRIX-pc-build
+# PC build and trouble shooting
 
 # Project summary
 
