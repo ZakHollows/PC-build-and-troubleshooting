@@ -2,11 +2,11 @@
 
 # Project summary
 
-This project was to test my ability to build a PC from start to finish, troublshooting issues and completing the build. Research into parts for connectivity and power supply before final assembly. Installation of OS with troublehsooting steps taken, and final updates for drivers and applications.
+This project was to test my ability to build a PC, troublshooting issues and completing the build with research into parts for connectivity and power supply before final assembly. Full part assembly,installation and troubleshooting followed by installation of Windows OS with troublehsooting steps taken. Updates for drivers, installation of programs and applications.
 
-This project taught me basics of hardware installation, troubleshooting steps for OS installation and driver updates on a older system.
+This taught me the basics of hardware and installation such as RAM into dual channels, CPU thermal paste application and heatsink installation, calculation for power supply and connectivity for wires to motherboard. Along with troubleshooting variours steps for hardware and software installation and updates with older technology.
 
-# Pc Build steps
+# Documentation
 
 * Prep area for PC components and tools
 * Assemble PC:
