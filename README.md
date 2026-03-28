@@ -1,4 +1,4 @@
-# PC build and trouble shooting
+# Windows 11 PC Building, Testing, Troublshooting and Verify of System Set-up
 
 # Project summary
 
